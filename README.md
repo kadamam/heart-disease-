@@ -1,4 +1,4 @@
-# heart-disease-
+# heart-disease prediction
 ## Overview
 This project focuses on developing machine learning models to predict the likelihood of individuals developing heart disease based on a set of clinical and demographic features. By leveraging a comprehensive dataset and advanced predictive analytics techniques, the goal is to assist healthcare professionals in early detection and prevention strategies, ultimately improving patient outcomes and reducing the burden of cardiovascular diseases.
 ## Data
